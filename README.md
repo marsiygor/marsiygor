@@ -1,6 +1,6 @@
 ### Eai, guys! Eu sou o Ygor Marsi 👋
 
-- 🔭 Hoje trabalho com back-end
+- 🔭 Hoje trabalho com Back-end e Análise de dados
 - 🌱 Estou estudando Python e Java
 
 ##
