@@ -15,7 +15,7 @@
   <img align="center" alt="Ygor-java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />    
   <img align="center" alt="Ygor-Pyhton" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />     
   <img align="center" alt="Ygor-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Ygor-Csharp" height="50" width="50" src="https://github.com/devicons/devicon/tree/v2.16.0/icons/css3">
+  <img align="center" alt="Ygor-Csharp" height="50" width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/css3/css3-original.svg">
 </div>
   
   ##
