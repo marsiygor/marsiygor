@@ -3,11 +3,6 @@
 - 🔭 Hoje trabalho com Back-end e Análise de dados
 - 🌱 Estou estudando Python e Java
 
-##
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marsiygor&show_icons=true&theme=gradient)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsiygor&hide=javascript,html)
 
 
 ##
