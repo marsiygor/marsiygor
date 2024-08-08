@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">I'm Ygor, how are you?</h2>
+<h2 align="center">I'm Ygor, how are you?</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since forever<br>📚 I'm currently learning Backend<br>🎲 Fun fact: I have a twin</p>
+<p align="center">✨ Creating bugs since forever<br>📚 I'm currently learning Backend<br>🎲 Fun fact: I have a twin</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -45,7 +45,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ygormarsi/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
