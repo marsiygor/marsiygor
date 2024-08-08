@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">I'm Ygor, how are you?</h2>
+<h2 align="left">I'm Ygor, how are you?</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">✨ Creating bugs since forever<br>📚 I'm currently learning Backend<br>🎲 Fun fact: I have a twin</p>
+<p align="left">✨ Creating bugs since forever<br>📚 I'm currently learning Backend<br>🎲 Fun fact: I have a twin</p>
 
 ###
 
