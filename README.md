@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since forever<br> I'm a Fullstack Developer at SapiensChat<br> 📚 I'm currently learning Artificial Intelligence<br>🎲 Fun fact: I have a twin</p>
+<p align="left">✨ Creating bugs since forever<br>💼 I'm a Fullstack Developer at SapiensChat<br> 📚 I'm currently learning Artificial Intelligence<br>🎲 Fun fact: I have a twin</p>
 
 ###
 
